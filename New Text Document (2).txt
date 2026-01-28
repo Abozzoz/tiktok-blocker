@@ -1,0 +1,22 @@
+# TikTok main domains
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+vm.tiktok.com
+vt.tiktok.com
+
+# TikTok API & services
+tiktokv.com
+api.tiktokv.com
+log.tiktokv.com
+
+# TikTok CDN & media
+tiktokcdn.com
+p16.tiktokcdn.com
+v16.tiktokcdn.com
+
+# ByteDance infrastructure
+byteoversea.com
+ibyteimg.com
+muscdn.com
+snssdk.com
